@@ -4,11 +4,11 @@
 
 ## Project Overview
 
-The School Board would like to understand various performance metrics of the different school districts and schools. We will first work with Maria to provide the initial analysis based on data collected from many students and schools across the school district.
+The School Board would like to understand the impact of changing all the grade 9 math and reading scores at Thomas High School to NaN - we will now review how this change impact various parts of the analysis relative to when it was ran including the Thomas High School grade 9 scores.The School Board would also like to understand various performance metrics of different school districts and schools. We will first work with Maria to provide the initial analysis based on data collected from many students and schools across the school district.
 
-While the School Board is pleased with the initial insight that we have provided in our work with Maria, it has been identified that there appears to be some anomalies in the data, in particular in the math and reading scores of the grade nine students at Thomas High School. In order to ensure these results do not skew the analysis, the Board has asked us to again work with Maria to remove the impact of these results by changing all the grade 9 Thomas High School math and reading scores to NaNs *(which is a null value)*.
+While the School Board is pleased with the initial insight that we have provided in our work with Maria, it has been identified that there appears to be some anomalies in the data, in particular in the math and reading scores of the grade nine students at Thomas High School. In order to ensure these results do not skew the analysis, the Board has asked us to again work with Maria to remove the impact of these results by changing all the grade 9 Thomas High School math and reading scores to NaNs.
 
-The School Board will like to understand the impact of changing all the grade 9 math and reading scores at Thomas High School to NaN - we will now review how this change impacted various parts of the analysis relative to when it was ran including the Thomas High School grade 9 scores.
+
 
 ## Purpose 
 
