@@ -80,7 +80,7 @@ Data Frame from analysis "The district summary" before and after replacement gra
 ![SSUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/School_Summary_Updated.png)
 Data Frame from analysis The School Summary for Thomas High School before and after replacement grades with NaNs.
 
-**3. The impact on math and reading scores  **
+**3. The impact on math and reading scores**
 
 -   In this report, only grades from Thomas High school in 9th grade was affected for math and reading.
 - Grade 9 students at Thomas High School have NaN's
