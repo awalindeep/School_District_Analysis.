@@ -14,28 +14,28 @@ The School Board will like to understand the impact of changing all the grade 9 
 
 The purpose of this analysis is to aggregate the students’ and schools’ datasets and analyze data on students’ standardized math and reading scores from various schools in the selected districts. To showcase trends in school performance, the analysis focuses on the following.
 
-1.  **The district summary**, which includes the total number of students, the total number of schools, total budget, math and reading averages, and math, reading, and overall passing percentages.
-2.  **The school summary**, which includes, school type, number of students, school budget, average math and reading scores and math, reading, and overall passing percentages for each school.
-3.  The  **top 5**  and  **bottom 5 performing schools**, based on the overall passing rate.
-4.  The  **average math and reading scores**  for each grade level (9th, 10th, 11th and 12th) from each school.
+1.  The district summary, which includes the total number of students, the total number of schools, total budget, math and reading averages, and math, reading, and overall passing percentages.
+2. The school summary, which includes, school type, number of students, school budget, average math and reading scores and math, reading, and overall passing percentages for each school.
+3.  The top 5 and bottom 5 performing schools, based on the overall passing rate.
+4.  The  average math and reading scores for each grade level (9th, 10th, 11th and 12th) from each school.
 5.  The math and reading scores grouped by the following.
-    -   **Spending ranges per students.**
-    -   **School size.**
-    -   **School type**
+    -   Spending ranges per students
+    -   School size
+    -   School type
 
 The analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
 
 ## Background
 
-The data is gathered in two different CSV files (school data and student data). This is raw data that has to be transformed in order to perform analysis and convey information. Those steps are performed in the so-called  **data-wrangling**  or  **data-munging**  process and include the following.
+The data is gathered in two different CSV files (school data and student data). This is raw data that has to be transformed in order to perform analysis and convey information. Those steps are performed in the so-called  *data-wrangling*  or  *data-munging* process and include the following.
 
--   Load and read raw data.
--   Inspect data (finding anomalies, finding missing values, declare data types, etc).
--   Cleaning data (leave, replace or delete rows with missing values).
--   Merge datasets.
--   Perform calculations and create tables.
--   Change layout and structure (organized tables are key to represent data in a way that is easy to understand and easy to detect patterns and correlations).
--   Sorting and grouping data (it is in data analysts power to use analytical mind and represent data in a new way; grouping data in well-defined categories can make a big difference in story-telling of the data).
+-   Load and read raw data from csv files.
+-   Inspect data 
+-   Clean data 
+-   Merge datasets
+-   Perform calculations and create tables
+-   Change layout and structure of data
+-   Sorting and grouping data
 
 ## Resources 
 -   Data Source: [schools_complete.csv](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/schools_complete.csv)
@@ -142,8 +142,8 @@ Data Frame from analysis "School performance based on the type of school" before
 
 ## Summary
 
-Since Thomas High School math and reading grades for 9th graders were replaced with NaNs, there are some minor changes in the report.
+Since Thomas High School math and reading grades for 9th graders were replaced with NaNs, there are minor changes in the report.
 
-1.  Due to no data availability for Thomas High school math and reading scores for 9th graders values had to be replaced with NaNs.
-2.  The overall impact on results due NaNs was very minimal. In each individual case it can be quantified as less than 1%. 
-4.  There were some changes in school summaries by spending per student, size, and type. Again, only categories that include Thomas High School were affected. Categories that were affected are:  _Spending Ranges (Per Student) $630-644_,  _Medium size schools (1000-2000) students_  and  _The Charter schools_.
+* Due to no data availability for Thomas High school math and reading scores for 9th graders values had to be replaced with NaNs.
+*  The overall impact on results due NaNs was very minimal. In each individual case it can be quantified as less than 1%. 
+*  There were some changes in school summaries by spending per student, size, and type. Again, only categories that include Thomas High School were affected. Categories that were affected are:  _Spending Ranges (Per Student) $630-644_,  _Medium size schools (1000-2000) students_  and  _The Charter schools_.
