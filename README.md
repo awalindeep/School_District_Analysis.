@@ -88,12 +88,12 @@ Data Frame from analysis The School Summary for Thomas High School before and af
 - Grade 9 students at Thomas High School have NaN's
 -  Calculations in this analysis were performed separately for each class and each school; therefore, other graders and schools weren’t affected.
 
-* Top 5
+#### Top 5
 
 ![MOG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Math_Score_Original.png)
 ![MUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Match_Score_Updated.png)
 
-* Bottom 5
+#### Bottom 5
 
 ![ROG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Reading_Score_Original.png)
 ![RUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Reading_Score_Updated.png)
