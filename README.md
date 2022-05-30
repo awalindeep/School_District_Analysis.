@@ -1,18 +1,18 @@
 # School District Analysis
 
-### Analysis on school district performance using Jupyter Notebook  Pandas Library and Numpy library.
+### Analysis on school district performance using Jupyter Notebook,  Pandas Library and Numpy library.
 
 ## Project Overview
 
 The School Board would like to understand the impact of changing all the grade 9 math and reading scores at Thomas High School to NaN - we will now review how this change impact various parts of the analysis relative to when it was ran including the Thomas High School grade 9 scores.The School Board would also like to understand various performance metrics of different school districts and schools. We will first work with Maria to provide the initial analysis based on data collected from many students and schools across the school district.
 
-While the School Board is pleased with the initial insight that we have provided in our work with Maria, it has been identified that there appears to be some anomalies in the data, in particular in the math and reading scores of the grade nine students at Thomas High School. In order to ensure these results do not skew the analysis, the Board has asked us to again work with Maria to remove the impact of these results by changing all the grade 9 Thomas High School math and reading scores to NaNs.
+While the School Board is pleased with the initial insight that we have provided in our work with Maria, whereas it has been identified that there appears to be some anomalies in the data, in particular in the math and reading scores of the grade nine students at Thomas High School. In order to ensure these results do not skew the analysis, the Board has asked us to again work with Maria to remove the impact of these results by changing all the grade 9 Thomas High School math and reading scores to NaNs.
 
 
 
 ## Purpose 
 
-The purpose of this analysis is to aggregate the students’ and schools’ datasets and analyze data on students’ standardized math and reading scores from various schools in the selected districts. To showcase trends in school performance, the analysis focuses on the following.
+The purpose of this analysis is to aggregate the students and schools datasets and analyze data on students standardized math and reading scores from various schools in the selected districts. To showcase trends in school performance, the analysis focuses on the following.
 
 1.  The district summary, which includes the total number of students, the total number of schools, total budget, math and reading averages, and math, reading, and overall passing percentages.
 2. The school summary, which includes, school type, number of students, school budget, average math and reading scores and math, reading, and overall passing percentages for each school.
