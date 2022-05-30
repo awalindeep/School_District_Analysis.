@@ -64,6 +64,7 @@ NaN stands for “not a number”. In performing calculations, unlike 0 (zero) N
 ![DSSOG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Ditrict_School_summary_Original.png)
 
 ![DSSUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Ditrict_School_summary_Updated.png)
+
 Data Frame from analysis "The district summary" before and after replacement grades with NaNs.
 
 
@@ -78,6 +79,7 @@ Data Frame from analysis "The district summary" before and after replacement gra
 ![SSOG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/School_Summary_Original.png)
 
 ![SSUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/School_Summary_Updated.png)
+
 Data Frame from analysis The School Summary for Thomas High School before and after replacement grades with NaNs.
 
 **3. The impact on math and reading scores**
@@ -90,6 +92,7 @@ Data Frame from analysis The School Summary for Thomas High School before and af
 ![MUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Match_Score_Updated.png)
 ![ROG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Reading_Score_Original.png)
 ![RUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Reading_Score_Updated.png)
+
 Data Frame from analysis "The average math and reading scores for each grade level from each school" before and after replacement grades with NaNs.
 
 **4. The top 5 and bottom 5 performing schools, based on the overall passing rate**
@@ -111,6 +114,7 @@ Data Frame from analysis "The average math and reading scores for each grade lev
 
 ![SOG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Spending_Summary_Original.png)
 ![SUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Spending_Summary_Updated.png)
+
 Data Frame from analysis "School performance based on school spend" before and after replacement grades with NaNs.
 
 **6. School performance impact based on the school size**
@@ -121,6 +125,7 @@ Data Frame from analysis "School performance based on school spend" before and a
 
 ![SOG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/School_Size_Original.png)
 ![SUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/School_Size_Updated.png)
+
 Data Frame from analysis "School performance based on the school size" before and after replacement grades with NaNs.
 
 **7. School performance impact based on the type of school**
@@ -130,7 +135,8 @@ Data Frame from analysis "School performance based on the school size" before an
 -   Again the overall impact to all metrics was less than 0.1%.
 
 ![SSOG](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/Scool_Type_Original.png)
-![SSUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/School_Size_Updated.png)
+![SSUD](https://github.com/awalindeep/School_District_Analysis./blob/AwalinGHMAIN/Resources/School_Type_Updated.png)
+
 Data Frame from analysis "School performance based on the type of school" before and after replacement grades with NaNs.
 
 
